@@ -1,4 +1,4 @@
-#Tue Sep 07 12:00:53 COT 2021
-base.0=C\:\\Users\\PC\\Documents\\GitHub\\AppMuebles\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+#Tue Sep 07 20:36:37 COT 2021
+base.0=C\:\\Users\\Usuario\\Documents\\GitHub\\AppMuebles\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 renamed.0=classes.dex
 path.0=classes.dex
