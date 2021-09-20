@@ -197,7 +197,7 @@ class _CategoryListState extends State<CategoryList> {
             },
             child: Container(
               alignment: Alignment.center,
-              margin: EdgeInsets.only(
+              margin: EdgeInsets.only( 
                 left: kDefaultPadding,
                 right: index == categoriesList.length - 1 ? kDefaultPadding : 0,
               ),
